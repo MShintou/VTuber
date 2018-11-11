@@ -1,4 +1,5 @@
-20181110 file
+# VTuber
+20181110 filenについて
 
 VTuber登録者ファイル．
 
@@ -6,4 +7,4 @@ VTuber登録者ファイル．
 
 以上から取得．
 
-# VTuber
+
