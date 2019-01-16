@@ -1,5 +1,5 @@
 # VTuber
-20181110 filenについて
+20181110 fileについて
 
 VTuber登録者ファイル．
 
